@@ -21,6 +21,3 @@ services:
       - key: CRON_API_KEY
         value: 0cc0e6c35519bba620c9360cfe3e68d0
 
-databases:
-  - name: cal-postgres
-    plan: starter
